@@ -1,1 +1,5 @@
 1.git init 初始化本地仓库
+2.git add README.md
+3.git commit -m "first commit"
+4.git remote add origin https://github.com/ldj243202193/demo.git
+5.git push -u origin master
